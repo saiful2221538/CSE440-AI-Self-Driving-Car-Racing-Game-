@@ -1,0 +1,8 @@
+# RL Racing Game — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+pygame>=2.5.0
+numpy>=1.24.0
+gymnasium>=0.29.0
+stable-baselines3>=2.2.0
+tensorflow
