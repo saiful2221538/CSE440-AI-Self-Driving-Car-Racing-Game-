@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="Flask" />
+          <option value="mysql-connector-python" />
+          <option value="easyocr" />
+          <option value="opencv-python" />
+          <option value="Pillow" />
+          <option value="numpy" />
+          <option value="Werkzeug" />
+          <option value="python-dotenv" />
+          <option value="scrapy" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="sum" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
